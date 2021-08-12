@@ -1,4 +1,4 @@
-# Welcome! ![](https://komarev.com/ghpvc/?username=opcecco&color=blueviolet)
+# &#x2615; &#x1f4c8; &#x1f4bb; &#x1f579;
 
 I'm Oliver, a data scientist and software engineer by day, and a hobbyist game developer by night. Currently interested in AI for healthcare, AI text generation, retro computing, Raspberry Pi DIY, PICO-8, Unity game engine, and virtual reality.
 
