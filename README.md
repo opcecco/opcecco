@@ -15,5 +15,5 @@ I'm Oliver, a data scientist and software engineer by day, and a hobbyist game d
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opcecco&layout=compact&theme=react" />
-	<img src="https://github-readme-stats.vercel.app/api/?username=opcecco&count_private=true&show_icons=true&hide=prs,contribs&line_height=30&theme=react" />
+	<!-- <img src="https://github-readme-stats.vercel.app/api/?username=opcecco&count_private=true&show_icons=true&hide=prs,contribs&line_height=30&theme=react" /> -->
 </p>
